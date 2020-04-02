@@ -1,0 +1,3 @@
+/home/leo/Desktop/Noise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leo/Desktop/Noise/cmake-build-debug/CMakeFiles/Noise.dir
+/home/leo/Desktop/Noise/cmake-build-debug/CMakeFiles/edit_cache.dir
